@@ -1,5 +1,7 @@
 # local-llm-gateway
 
+![CI](https://github.com/TryKosm/local-llm-gateway/actions/workflows/ci.yml/badge.svg)
+
 TypeScript gateway for routing chat requests across local and remote LLM providers with fallback rules.
 
 ## Features

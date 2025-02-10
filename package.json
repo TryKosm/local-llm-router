@@ -1,5 +1,5 @@
 {
-  "name": "local-llm-gateway",
+  "name": "local-llm-router",
   "version": "0.1.0",
   "private": true,
   "type": "module",
